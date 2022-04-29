@@ -1,0 +1,4 @@
+Arrays = It is collection of similar data type in contigeous memory location.
+ptr++ = It means the value stored in ptr is not incremented but the datatype is incremented
+    in case of integer it is incementd by 4 because size of datatype of integer is 4.
+    and in case of char it is incremented by 1.
