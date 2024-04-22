@@ -1,5 +1,5 @@
 /*
- Perfect number= Perfect number is define as the sum of factor of itsself.
+ Perfect number= Perfect number is define as the sum of factor of itself.
 
 Palindrome number = Palindrome number is that number in first we reverse it and then
     this reverse number is equal  inputt number.
